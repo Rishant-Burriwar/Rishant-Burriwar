@@ -104,9 +104,9 @@ https://github.com/Rishant-Burriwar/Library-Api
 
 # 🏆 Achievements
 
-- 💻 Solved **14+ LeetCode** problems
-- 🟢 Easy: **11**
-- 🟡 Medium: **3**
+- 💻 Solved **50+ LeetCode** problems
+- 🟢 Easy: **40+**
+- 🟡 Medium: **15+**
 - 📚 Continuously improving Data Structures & Algorithms skills
 
 ---
