@@ -1,64 +1,138 @@
 <h1 align="center">Hi 👋, I'm Rishant Burriwar</h1>
 
 <p align="center">
-  <b>Backend Developer • Problem Solver • Lifelong Learner</b>
+  <b>Backend Developer • Problem Solver • Systems Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+REST+APIs+with+Node.js;Learning+DSA+and+System+Design;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Backend+Systems;Learning+Distributed+Systems;Solving+DSA+Problems;Building+Real-World+Projects;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rishant-Burriwar">
+    <img src="https://img.shields.io/github/followers/Rishant-Burriwar?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/Rishant_Burriwar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishant-burriwar-a58827378/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 Second-year **Information Technology** student at **VNR Vignana Jyothi Institute of Engineering and Technology**
-- 💻 Passionate about **Backend Development**, **REST APIs**, and **Scalable Systems**
-- 🌱 Currently learning **Node.js, Express.js, MongoDB, PostgreSQL, and Data Structures & Algorithms**
-- 🛠️ I enjoy solving real-world problems by building projects from scratch
-- 🎯 Working towards becoming a Backend Software Engineer
+🎓 **Second-year Information Technology student** at **VNR Vignana Jyothi Institute of Engineering and Technology**
+
+💻 Interested in **Backend Engineering, Distributed Systems, Databases, and System Design**
+
+🧠 Currently strengthening my foundations in **Data Structures & Algorithms, Backend Development, and Computer Science fundamentals**
+
+🔨 I learn by following a simple loop:
+
+> **Learn → Build → Break → Debug → Improve**
+
+🚀 My long-term goal is to become a **Backend / Infrastructure Engineer** capable of designing reliable systems that can scale.
+
+---
+
+# 🧠 What I'm Currently Learning
+
+```text
+Backend Engineering
+├── Node.js
+├── Express.js
+├── REST APIs
+├── Authentication & Authorization
+├── API Design
+└── Backend Architecture
+
+Databases
+├── PostgreSQL
+├── MongoDB
+├── SQL
+├── Indexing
+├── Transactions
+└── Database Design
+
+Computer Science
+├── Data Structures & Algorithms
+├── Operating Systems
+├── Computer Networks
+├── DBMS
+└── System Design
+
+Systems
+├── Linux
+├── Docker
+├── Redis
+├── Concurrency
+├── Distributed Systems
+└── Scalability
+```
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,python" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
-## 🔧 Tools
+### 🔧 Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker" />
 </p>
 
 ---
 
 # 🚧 Currently Building
 
-### 🔍 JobScout
+## 🔍 JobScout
 
-A Python-based application that fetches remote job listings from public APIs, processes the data, and presents it in a structured format.
+A Python-based job discovery application designed to collect and organize remote job opportunities from public APIs.
 
-**Planned Features**
-- 🌍 Fetch remote jobs using APIs
-- 🔎 Filter jobs based on role and skills
-- 📊 Process and organize job data
-- 💾 Export job listings
+### Planned Architecture
+
+```text
+Public Job APIs
+       ↓
+   Data Fetcher
+       ↓
+ Data Processing
+       ↓
+ Filtering Engine
+       ↓
+ Structured Job Data
+       ↓
+ Export / Search
+```
+
+### Planned Features
+
+* 🌍 Fetch jobs from public APIs
+* 🔎 Filter by role and required skills
+* 🧹 Clean and normalize job data
+* 📊 Organize opportunities
+* 💾 Export job listings
+* 🔄 Automate periodic data collection
 
 ---
 
@@ -66,74 +140,128 @@ A Python-based application that fetches remote job listings from public APIs, pr
 
 ## ⚔️ Hogwarts Dex
 
-**Tech Stack:** JavaScript
+**JavaScript • CLI • Game Logic • AI Decision Making**
 
-A command-line battle simulator inspired by the Harry Potter universe featuring AI-driven opponents and strategic combat.
+A command-line battle simulator inspired by the Harry Potter universe.
 
-### Features
+### Highlights
 
-- 🤖 AI decision-making battle bot
-- ⚡ Turn-based combat system
-- 🪄 Multiple spells and abilities
-- ❤️ Health and mana management
-- 🎮 Interactive command-line gameplay
+* 🤖 AI-driven opponent decision making
+* ⚡ Turn-based combat engine
+* 🪄 Multiple spells and abilities
+* ❤️ Health and mana management
+* ⏱️ Cooldown mechanics
+* 🎮 Interactive CLI gameplay
 
-🔗 **Repository:**  
-https://github.com/Rishant-Burriwar/Javascript_Projects
+🔗 [View Repository](https://github.com/Rishant-Burriwar/Javascript_Projects)
 
 ---
 
 ## 📚 Library API
 
-**Tech Stack:** Node.js, Express.js
+**Node.js • Express.js • REST API**
 
-A RESTful API built to learn backend architecture and API development fundamentals.
+A backend project built to understand how real REST APIs are structured.
 
-### Features
+### Highlights
 
-- 📖 CRUD operations
-- 🌐 REST API architecture
-- ⚡ Express routing & middleware
-- 📦 JSON request/response handling
-- 🧩 Modular project structure
+* 📖 CRUD operations
+* 🌐 RESTful API architecture
+* ⚡ Express routing & middleware
+* 📦 JSON request/response handling
+* 🧩 Modular backend structure
+* 🗄️ Database integration
 
-🔗 **Repository:**  
-https://github.com/Rishant-Burriwar/Library-Api
-
----
-
-# 🏆 Achievements
-
-- 💻 Solved **50+ LeetCode** problems
-- 🟢 Easy: **40+**
-- 🟡 Medium: **15+**
-- 📚 Continuously improving Data Structures & Algorithms skills
+🔗 [View Repository](https://github.com/Rishant-Burriwar/Library-Api)
 
 ---
 
-# 📈 GitHub Stats
+# 🧩 Problem Solving
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishant-Burriwar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+I use competitive programming and DSA to improve algorithmic thinking rather than just collecting solved problems.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishant-Burriwar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Current Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rishant-Burriwar&theme=tokyonight&hide_border=true" />
-</p>
+* Arrays
+* Hashing
+* Two Pointers
+* Sliding Window
+* Sorting
+* Trees
+* Graphs
+* Recursion
+* Dynamic Programming
+* Time & Space Complexity
+
+🎯 **2026 Target:** 300+ LeetCode problems
+
+🔗 [View my LeetCode Profile](https://leetcode.com/u/Rishant_Burriwar/)
+
+---
+
+# 🏗️ What I Want to Build
+
+I'm especially interested in projects that force me to understand **what happens underneath the abstraction**.
+
+### 🔥 Areas I'm Exploring
+
+| Area                | What I'm Exploring                              |
+| ------------------- | ----------------------------------------------- |
+| Backend             | APIs, authentication, architecture              |
+| Databases           | SQL, indexing, transactions, query optimization |
+| Systems             | Linux, networking, concurrency                  |
+| Distributed Systems | Replication, consistency, fault tolerance       |
+| Infrastructure      | Docker, caching, observability                  |
+| AI + Backend        | RAG, semantic search, AI-powered APIs           |
+
+---
+
+# 🧪 My Engineering Philosophy
+
+I don't want to only learn frameworks.
+
+I want to understand the systems behind them.
+
+```text
+Use the abstraction
+       ↓
+Understand the abstraction
+       ↓
+Break the abstraction
+       ↓
+Rebuild a smaller version
+       ↓
+Understand why it works
+```
+
+That's the approach I'm using to move from **writing code → engineering systems**.
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Become a strong Backend Developer
-- 💻 Solve **300+ LeetCode** problems
-- 📚 Master Node.js, Express.js, MongoDB, and PostgreSQL
-- 🏗️ Build **10+ production-quality projects**
-- 💼 Secure a Software Engineering Internship
+* 🚀 Become a strong Backend Engineer
+* 🧠 Solve **300+ LeetCode problems**
+* 🗄️ Become strong with PostgreSQL & database internals
+* ⚙️ Build production-quality REST APIs
+* 🐳 Learn Docker & deployment properly
+* 🌐 Understand networking and distributed systems
+* 🤖 Integrate AI into backend applications
+* 🏗️ Build **10+ meaningful projects**
+* 💼 Secure a Software Engineering Internship
+
+---
+
+# 📊 My Current Focus
+
+```text
+DSA                  ███████░░░░░░░  50%
+Backend Engineering  █████████░░░░░  60%
+Databases            ████████░░░░░░  55%
+AI + Backend         ████░░░░░░░░░░  30%
+```
+
+> These are personal learning targets, not measured skill scores.
 
 ---
 
@@ -141,7 +269,7 @@ https://github.com/Rishant-Burriwar/Library-Api
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rishant-burriwar-a58827378/" target="_blank">
+<a href="https://www.linkedin.com/in/rishant-burriwar-a58827378/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -149,18 +277,23 @@ https://github.com/Rishant-Burriwar/Library-Api
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+<a href="https://github.com/Rishant-Burriwar">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
-💻 **LeetCode:**  
-https://leetcode.com/u/Rishant_Burriwar/
+### 🔗 Profiles
+
+* 💻 **GitHub:** [Rishant-Burriwar](https://github.com/Rishant-Burriwar)
+* 🧩 **LeetCode:** [Rishant_Burriwar](https://leetcode.com/u/Rishant_Burriwar/)
+* 💼 **LinkedIn:** [Rishant Burriwar](https://www.linkedin.com/in/rishant-burriwar-a58827378/)
 
 ---
 
 # ⚡ Philosophy
 
-> **Learn deeply. Build consistently. Ship relentlessly.**
-
----
+> **Learn deeply. Build consistently. Break things. Understand why. Ship better.**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishant-Burriwar&label=Profile%20Views&color=0e75b6&style=flat" />
